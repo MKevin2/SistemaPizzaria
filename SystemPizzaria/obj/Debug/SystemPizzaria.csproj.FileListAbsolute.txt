@@ -1,0 +1,93 @@
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe.config
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.pdb
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.AssemblyReference.cache
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Properties.Resources.resources
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Splash.resources
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.GenerateResource.cache
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.exe
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.pdb
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\MySql.Data.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Buffers.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Memory.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\ZstdSharp.dll
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\Google.Protobuf.pdb
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\Google.Protobuf.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\MySql.Data.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Buffers.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Memory.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Login.resources
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.CopyComplete
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Menu.resources
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Cliente.resources
+C:\Users\Wellington\Desktop\PROJETO - PIZZARIA 3DS ETIM\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Pedido.resources
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe.config
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.pdb
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\Google.Protobuf.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\MySql.Data.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Buffers.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Memory.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\ZstdSharp.dll
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\Google.Protobuf.pdb
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\Google.Protobuf.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\MySql.Data.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Buffers.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Memory.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.AssemblyReference.cache
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Cliente.resources
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Login.resources
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Menu.resources
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Pedido.resources
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Properties.Resources.resources
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Splash.resources
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.GenerateResource.cache
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.CopyComplete
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.exe
+C:\Users\jefet\Downloads\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.pdb
